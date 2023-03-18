@@ -1,0 +1,18 @@
+bugReports
+_______
+  bugs:
+   1. bug-id: 139HW 
+    title:
+           Company ESG Risk Ratings </title>
+    Description: 
+           In the search field when the focus is on and the value is empty, 
+           a button to clear the field is displayed 
+    Steps: 
+           1) Scroll to the block Company ESG Risk Ratings, 
+           2) Click on the search field, 
+           3) Click outside the search box
+    ER: 
+           When you click on the search field, only the cursor is displayed
+    AR: 
+           When you click on a search field with an empty value, 
+           a button to clear the field is displayed 
